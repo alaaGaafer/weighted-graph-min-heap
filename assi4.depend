@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1654107888 source:c:\users\alaau\onedrive\desktop\assi4\main.cpp
+	<iostream>
+	"MinHeap.h"
+	"WeightedGraph.h"
+	<fstream>
+	<iomanip>
+	<climits>
+
+1654104919 c:\users\alaau\onedrive\desktop\assi4\minheap.h
+	<iostream>
+	<iomanip>
+
+1654107970 c:\users\alaau\onedrive\desktop\assi4\weightedgraph.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<climits>
+
